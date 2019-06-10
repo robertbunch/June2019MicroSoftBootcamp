@@ -1,0 +1,14 @@
+C:\Users\rober\OneDrive\Documents\teaching\dcMicrosoft\day1\generics\genericsLesson\genericsLesson\bin\Debug\genericsLesson.exe.config
+C:\Users\rober\OneDrive\Documents\teaching\dcMicrosoft\day1\generics\genericsLesson\genericsLesson\bin\Debug\genericsLesson.exe
+C:\Users\rober\OneDrive\Documents\teaching\dcMicrosoft\day1\generics\genericsLesson\genericsLesson\bin\Debug\genericsLesson.pdb
+C:\Users\rober\OneDrive\Documents\teaching\dcMicrosoft\day1\generics\genericsLesson\genericsLesson\obj\Debug\genericsLesson.csprojAssemblyReference.cache
+C:\Users\rober\OneDrive\Documents\teaching\dcMicrosoft\day1\generics\genericsLesson\genericsLesson\obj\Debug\genericsLesson.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documents\teaching\dcMicrosoft\day1\generics\genericsLesson\genericsLesson\obj\Debug\genericsLesson.exe
+C:\Users\rober\OneDrive\Documents\teaching\dcMicrosoft\day1\generics\genericsLesson\genericsLesson\obj\Debug\genericsLesson.pdb
+C:\Users\rober\OneDrive\Documents\MS Bootcamp\day1\generics\genericsLesson\genericsLesson\obj\Debug\genericsLesson.csprojAssemblyReference.cache
+C:\Users\rober\OneDrive\Documents\MS Bootcamp\day1\generics\genericsLesson\genericsLesson\obj\Debug\genericsLesson.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documents\MS Bootcamp\day1\generics\genericsLesson\genericsLesson\obj\Debug\genericsLesson.exe
+C:\Users\rober\OneDrive\Documents\MS Bootcamp\day1\generics\genericsLesson\genericsLesson\obj\Debug\genericsLesson.pdb
+C:\Users\rober\OneDrive\Documents\MS Bootcamp\day1\generics\genericsLesson\genericsLesson\bin\Debug\genericsLesson.exe.config
+C:\Users\rober\OneDrive\Documents\MS Bootcamp\day1\generics\genericsLesson\genericsLesson\bin\Debug\genericsLesson.exe
+C:\Users\rober\OneDrive\Documents\MS Bootcamp\day1\generics\genericsLesson\genericsLesson\bin\Debug\genericsLesson.pdb
