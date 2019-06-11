@@ -1,0 +1,11 @@
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\AttributeLesson\AttributeLesson\obj\Debug\netcoreapp2.1\AttributeLesson.csprojAssemblyReference.cache
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\AttributeLesson\AttributeLesson\obj\Debug\netcoreapp2.1\AttributeLesson.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\AttributeLesson\AttributeLesson\obj\Debug\netcoreapp2.1\AttributeLesson.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\AttributeLesson\AttributeLesson\obj\Debug\netcoreapp2.1\AttributeLesson.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\AttributeLesson\AttributeLesson\bin\Debug\netcoreapp2.1\AttributeLesson.deps.json
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\AttributeLesson\AttributeLesson\bin\Debug\netcoreapp2.1\AttributeLesson.runtimeconfig.json
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\AttributeLesson\AttributeLesson\bin\Debug\netcoreapp2.1\AttributeLesson.runtimeconfig.dev.json
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\AttributeLesson\AttributeLesson\bin\Debug\netcoreapp2.1\AttributeLesson.dll
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\AttributeLesson\AttributeLesson\bin\Debug\netcoreapp2.1\AttributeLesson.pdb
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\AttributeLesson\AttributeLesson\obj\Debug\netcoreapp2.1\AttributeLesson.dll
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\AttributeLesson\AttributeLesson\obj\Debug\netcoreapp2.1\AttributeLesson.pdb

@@ -1,0 +1,11 @@
+C:\Users\rober\source\repos\DelegateLesson\DelegateLesson\bin\Debug\netcoreapp2.1\DelegateLesson.deps.json
+C:\Users\rober\source\repos\DelegateLesson\DelegateLesson\bin\Debug\netcoreapp2.1\DelegateLesson.runtimeconfig.json
+C:\Users\rober\source\repos\DelegateLesson\DelegateLesson\bin\Debug\netcoreapp2.1\DelegateLesson.runtimeconfig.dev.json
+C:\Users\rober\source\repos\DelegateLesson\DelegateLesson\bin\Debug\netcoreapp2.1\DelegateLesson.dll
+C:\Users\rober\source\repos\DelegateLesson\DelegateLesson\bin\Debug\netcoreapp2.1\DelegateLesson.pdb
+C:\Users\rober\source\repos\DelegateLesson\DelegateLesson\obj\Debug\netcoreapp2.1\DelegateLesson.csprojAssemblyReference.cache
+C:\Users\rober\source\repos\DelegateLesson\DelegateLesson\obj\Debug\netcoreapp2.1\DelegateLesson.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\DelegateLesson\DelegateLesson\obj\Debug\netcoreapp2.1\DelegateLesson.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\DelegateLesson\DelegateLesson\obj\Debug\netcoreapp2.1\DelegateLesson.AssemblyInfo.cs
+C:\Users\rober\source\repos\DelegateLesson\DelegateLesson\obj\Debug\netcoreapp2.1\DelegateLesson.dll
+C:\Users\rober\source\repos\DelegateLesson\DelegateLesson\obj\Debug\netcoreapp2.1\DelegateLesson.pdb
