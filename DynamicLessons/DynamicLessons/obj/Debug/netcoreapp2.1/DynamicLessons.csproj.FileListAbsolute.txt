@@ -9,3 +9,14 @@ C:\Users\rober\source\repos\DynamicLessons\DynamicLessons\obj\Debug\netcoreapp2.
 C:\Users\rober\source\repos\DynamicLessons\DynamicLessons\obj\Debug\netcoreapp2.1\DynamicLessons.dll
 C:\Users\rober\source\repos\DynamicLessons\DynamicLessons\obj\Debug\netcoreapp2.1\DynamicLessons.pdb
 C:\Users\rober\source\repos\DynamicLessons\DynamicLessons\obj\Debug\netcoreapp2.1\DynamicLessons.csprojAssemblyReference.cache
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\DynamicLessons\DynamicLessons\bin\Debug\netcoreapp2.1\DynamicLessons.deps.json
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\DynamicLessons\DynamicLessons\bin\Debug\netcoreapp2.1\DynamicLessons.runtimeconfig.json
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\DynamicLessons\DynamicLessons\bin\Debug\netcoreapp2.1\DynamicLessons.runtimeconfig.dev.json
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\DynamicLessons\DynamicLessons\bin\Debug\netcoreapp2.1\DynamicLessons.dll
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\DynamicLessons\DynamicLessons\bin\Debug\netcoreapp2.1\DynamicLessons.pdb
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\DynamicLessons\DynamicLessons\obj\Debug\netcoreapp2.1\DynamicLessons.csprojAssemblyReference.cache
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\DynamicLessons\DynamicLessons\obj\Debug\netcoreapp2.1\DynamicLessons.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\DynamicLessons\DynamicLessons\obj\Debug\netcoreapp2.1\DynamicLessons.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\DynamicLessons\DynamicLessons\obj\Debug\netcoreapp2.1\DynamicLessons.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\DynamicLessons\DynamicLessons\obj\Debug\netcoreapp2.1\DynamicLessons.dll
+C:\Users\rober\OneDrive\Documents\MSBootcampCode\DynamicLessons\DynamicLessons\obj\Debug\netcoreapp2.1\DynamicLessons.pdb

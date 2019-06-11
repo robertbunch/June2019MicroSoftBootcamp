@@ -13,7 +13,6 @@ namespace DynamicLessons
             //msg.
             dynamic msg2 = "I don't know what this is. It's the CLR's problem. -- The Compiler.";
             //msg2++;
-
             int num = 10;
             Type type = num.GetType();
             Console.WriteLine(type);

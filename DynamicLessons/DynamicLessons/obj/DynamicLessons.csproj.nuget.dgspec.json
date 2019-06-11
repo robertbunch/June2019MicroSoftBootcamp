@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rober\\source\\repos\\DynamicLessons\\DynamicLessons\\DynamicLessons.csproj": {}
+    "C:\\Users\\rober\\OneDrive\\Documents\\MSBootcampCode\\DynamicLessons\\DynamicLessons\\DynamicLessons.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rober\\source\\repos\\DynamicLessons\\DynamicLessons\\DynamicLessons.csproj": {
+    "C:\\Users\\rober\\OneDrive\\Documents\\MSBootcampCode\\DynamicLessons\\DynamicLessons\\DynamicLessons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rober\\source\\repos\\DynamicLessons\\DynamicLessons\\DynamicLessons.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\OneDrive\\Documents\\MSBootcampCode\\DynamicLessons\\DynamicLessons\\DynamicLessons.csproj",
         "projectName": "DynamicLessons",
-        "projectPath": "C:\\Users\\rober\\source\\repos\\DynamicLessons\\DynamicLessons\\DynamicLessons.csproj",
+        "projectPath": "C:\\Users\\rober\\OneDrive\\Documents\\MSBootcampCode\\DynamicLessons\\DynamicLessons\\DynamicLessons.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rober\\source\\repos\\DynamicLessons\\DynamicLessons\\obj\\",
+        "outputPath": "C:\\Users\\rober\\OneDrive\\Documents\\MSBootcampCode\\DynamicLessons\\DynamicLessons\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
