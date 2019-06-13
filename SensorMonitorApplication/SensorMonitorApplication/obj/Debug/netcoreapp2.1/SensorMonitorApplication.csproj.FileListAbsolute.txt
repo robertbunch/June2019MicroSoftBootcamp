@@ -1,0 +1,11 @@
+C:\Users\rober\source\repos\SensorMonitorApplication\SensorMonitorApplication\bin\Debug\netcoreapp2.1\SensorMonitorApplication.deps.json
+C:\Users\rober\source\repos\SensorMonitorApplication\SensorMonitorApplication\bin\Debug\netcoreapp2.1\SensorMonitorApplication.runtimeconfig.json
+C:\Users\rober\source\repos\SensorMonitorApplication\SensorMonitorApplication\bin\Debug\netcoreapp2.1\SensorMonitorApplication.runtimeconfig.dev.json
+C:\Users\rober\source\repos\SensorMonitorApplication\SensorMonitorApplication\bin\Debug\netcoreapp2.1\SensorMonitorApplication.dll
+C:\Users\rober\source\repos\SensorMonitorApplication\SensorMonitorApplication\bin\Debug\netcoreapp2.1\SensorMonitorApplication.pdb
+C:\Users\rober\source\repos\SensorMonitorApplication\SensorMonitorApplication\obj\Debug\netcoreapp2.1\SensorMonitorApplication.csprojAssemblyReference.cache
+C:\Users\rober\source\repos\SensorMonitorApplication\SensorMonitorApplication\obj\Debug\netcoreapp2.1\SensorMonitorApplication.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\SensorMonitorApplication\SensorMonitorApplication\obj\Debug\netcoreapp2.1\SensorMonitorApplication.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\SensorMonitorApplication\SensorMonitorApplication\obj\Debug\netcoreapp2.1\SensorMonitorApplication.AssemblyInfo.cs
+C:\Users\rober\source\repos\SensorMonitorApplication\SensorMonitorApplication\obj\Debug\netcoreapp2.1\SensorMonitorApplication.dll
+C:\Users\rober\source\repos\SensorMonitorApplication\SensorMonitorApplication\obj\Debug\netcoreapp2.1\SensorMonitorApplication.pdb
