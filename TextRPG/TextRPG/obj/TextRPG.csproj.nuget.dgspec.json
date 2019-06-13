@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rober\\source\\repos\\TextRPG\\TextRPG\\TextRPG.csproj": {}
+    "C:\\Users\\rober\\OneDrive\\Documents\\MSBootcampCode\\TextRPG\\TextRPG\\TextRPG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rober\\source\\repos\\TextRPG\\TextRPG\\TextRPG.csproj": {
+    "C:\\Users\\rober\\OneDrive\\Documents\\MSBootcampCode\\TextRPG\\TextRPG\\TextRPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rober\\source\\repos\\TextRPG\\TextRPG\\TextRPG.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\OneDrive\\Documents\\MSBootcampCode\\TextRPG\\TextRPG\\TextRPG.csproj",
         "projectName": "TextRPG",
-        "projectPath": "C:\\Users\\rober\\source\\repos\\TextRPG\\TextRPG\\TextRPG.csproj",
+        "projectPath": "C:\\Users\\rober\\OneDrive\\Documents\\MSBootcampCode\\TextRPG\\TextRPG\\TextRPG.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rober\\source\\repos\\TextRPG\\TextRPG\\obj\\",
+        "outputPath": "C:\\Users\\rober\\OneDrive\\Documents\\MSBootcampCode\\TextRPG\\TextRPG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

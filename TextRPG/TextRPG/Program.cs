@@ -17,10 +17,15 @@ namespace TextRPG
             HeroTakeAction.Action(lane, attack);
             HeroTakeAction.Action(lane, drink);
             HeroAction laugh = Laugh;
+            HeroTakeAction.Action(lane, laugh);
+
+            HeroTakeAction.Action(lane, () => {
+                Console.WriteLine("Hero runs away!");
+            });
 
 
         }
-        static void Laugh(Hero hero)
+        private static void Laugh(Hero hero)
         {
             Console.WriteLine("The mighty {0} laughs at evil.",hero.Name);
         }
