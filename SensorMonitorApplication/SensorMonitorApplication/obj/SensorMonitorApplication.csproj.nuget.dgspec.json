@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rober\\source\\repos\\SensorMonitorApplication\\SensorMonitorApplication\\SensorMonitorApplication.csproj": {}
+    "C:\\Users\\rober\\OneDrive\\Documents\\MSBootcampCode\\SensorMonitorApplication\\SensorMonitorApplication\\SensorMonitorApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rober\\source\\repos\\SensorMonitorApplication\\SensorMonitorApplication\\SensorMonitorApplication.csproj": {
+    "C:\\Users\\rober\\OneDrive\\Documents\\MSBootcampCode\\SensorMonitorApplication\\SensorMonitorApplication\\SensorMonitorApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rober\\source\\repos\\SensorMonitorApplication\\SensorMonitorApplication\\SensorMonitorApplication.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\OneDrive\\Documents\\MSBootcampCode\\SensorMonitorApplication\\SensorMonitorApplication\\SensorMonitorApplication.csproj",
         "projectName": "SensorMonitorApplication",
-        "projectPath": "C:\\Users\\rober\\source\\repos\\SensorMonitorApplication\\SensorMonitorApplication\\SensorMonitorApplication.csproj",
+        "projectPath": "C:\\Users\\rober\\OneDrive\\Documents\\MSBootcampCode\\SensorMonitorApplication\\SensorMonitorApplication\\SensorMonitorApplication.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rober\\source\\repos\\SensorMonitorApplication\\SensorMonitorApplication\\obj\\",
+        "outputPath": "C:\\Users\\rober\\OneDrive\\Documents\\MSBootcampCode\\SensorMonitorApplication\\SensorMonitorApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
